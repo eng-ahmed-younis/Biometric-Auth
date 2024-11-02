@@ -25,8 +25,8 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.biometricauth.auth.BiometricPromptManager
+import com.example.biometricauth.auth.BiometricResult
 import com.example.biometricauth.ui.theme.BiometricAuthTheme
-import com.example.biometricauth.auth.BiometricPromptManager.*
 
 class MainActivity : AppCompatActivity() {
 

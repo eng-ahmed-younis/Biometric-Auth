@@ -69,4 +69,8 @@ dependencies {
 
     // Biometric
     implementation("androidx.biometric:biometric:1.1.0")
+    //implementation(libs.toaster)
+    implementation ("com.github.eng-ahmed-younis:Toaster:1.2")
+
+
 }
